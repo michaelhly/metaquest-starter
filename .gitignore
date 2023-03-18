@@ -78,3 +78,6 @@ microsoft.unity.analyzers.1.14.0
 
 # Obi
 /Assets/Obi/Samples*
+
+# Backups
+example_*
